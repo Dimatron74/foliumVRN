@@ -1,5 +1,5 @@
-region;total_population_2020;male_population;female_population;male_percent;female_percent
-Регион;Популяция_2020;Мужчины;Женщины;Мужчины_процент;Женщины_процент
+region;total_population;male_population;female_population;male_percent;female_percent
+Регион;Популяция;Мужчины;Женщины;Мужчины_процент;Женщины_процент
 Российская Федерация;147 182 123;68 431 580;78 750 543;46,5;53,5
 Городское население;110 075 322;50 506 330;59 568 992;45,9;54,1
 Сельское население;37 106 801;17 925 250;19 181 551;48,3;51,7

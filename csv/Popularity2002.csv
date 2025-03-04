@@ -1,5 +1,5 @@
-region;total_population_2002;male_population;female_population;male_percent;female_percent
-Регион;Популяция_2002;Мужчины;Женщины;Мужчины_процент;Женщины_процент
+region;total_population;male_population;female_population;male_percent;female_percent
+Регион;Популяция;Мужчины;Женщины;Мужчины_процент;Женщины_процент
 Российская Федерация;145166731;67605133;77561598;46,6;53,4
     Городское население;106429049;49149510;57279539;46,2;53,8
     Сельское население;38737682;18455623;20282059;47,6;52,4
